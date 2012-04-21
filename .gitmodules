@@ -1,3 +1,6 @@
 [submodule "wp-content/themes/rotorwash"]
 	path = wp-content/themes/rotorwash
 	url = git://github.com/copterlabs/rotorwash.git
+[submodule "wp-content/themes/childtheme"]
+	path = wp-content/themes/childtheme
+	url = git://github.com/copterlabs/sampleproject.git
