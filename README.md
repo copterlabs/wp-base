@@ -52,3 +52,8 @@ Or this:
 
 ![Dancing Takei](http://cptr.us/images/takei.gif)
 
+Credits
+-------
+
+This guide was written by [Jason Lengstorf](https://github.com/jlengstorf)
+
